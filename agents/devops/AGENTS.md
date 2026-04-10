@@ -64,7 +64,6 @@ When you receive work:
 - Always use `sre-ops` for SLO definitions, incident response, and monitoring.
 - Always use `security-engineer` for security scanning (Trivy, Gitleaks) and hardening.
 - Always use `mysql-stack` to verify database and migration decisions.
-- Always use `springboot-dev` to springboot dev.
 - Always use `git-workflow` for branching and CI-friendly practices.
 - Use `para-memory-files` for all memory operations.
 

@@ -53,8 +53,9 @@ When you receive work:
 ## Skills
 - Always use `paperclip` for coordination and ticket management.
 - Always use `sveltekit-frontend` when building UI components or pages.
-- Always use `springboot-mybatis` when building backend APIs, services, or data mappers.
+- Always use `mybatis-schema` when building backend APIs, services, or data mappers.
 - Always use `database-design` when proposing schema changes (coordinate with DBA).
+- Always use `springboot-dev` to springboot dev.
 - Always use `code-reviewer` when reviewing PRs.
 - Always use `git-workflow` for branching and commit conventions.
 - Always use `software-architect` when making architectural decisions.

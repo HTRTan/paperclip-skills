@@ -47,6 +47,7 @@ When you receive work:
 
 ## Skills
 - Always use `paperclip` for coordination and ticket management.
+- Always use `mysql` for Plan and review MySQL/InnoDB schema, indexing, query tuning, transactions, and operations.
 - Always use `mysql-optimizer` when reviewing or optimizing queries.
 - Always use `mysql-schema` when designing schemas or reviewing ORM code.
 - Always use `data-remediation` when cleaning or validating data.
