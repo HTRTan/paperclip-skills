@@ -1,6 +1,3 @@
-以下是您所需的 `cicd-pipelines` 技能包，涵盖 Jenkins 与 GitHub Actions 的核心知识、可直接使用的流水线模板以及参考指南。
-
-```markdown
 ---
 name: cicd-pipelines
 description: 提供 Jenkins 和 GitHub Actions 的 CI/CD 流水线知识、工作流模板与参考指南。包含声明式 Pipeline、GitHub Actions 工作流、多语言构建示例、最佳实践及故障排查。
@@ -478,8 +475,3 @@ jobs:
 3. 按需调整模板中的 `environment`、`triggers`、`matrix` 及后置操作。
 4. 提醒用户设置必要的凭证和权限。
 5. 如果涉及多分支或复杂发布策略，引用最佳实践部分。
-
---- 
-
-本技能旨在加速 CI/CD 流水线开发，所有模板可根据实际需求自由修改。如需更深入的场景（如 Kubernetes 部署、蓝绿发布、Canary），请进一步描述需求。
-```
